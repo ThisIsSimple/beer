@@ -1,0 +1,22 @@
+body {
+  background-color: #2F3238;
+}
+
+p {
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
+}
+
+nav {
+  position: fixed;
+  z-index: 100;
+}
+
+.parallax-container {
+  height: 500px;
+}
+
+/* footer */
